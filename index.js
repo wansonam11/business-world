@@ -7,6 +7,6 @@ const typeit = new TypeIt("#typeit", {
 typeit
   .type("学びの世界へようこそ。", { delay: 1000 })
   .delete(11, { delay: 800 })
-  .type("<small>学生は終わった。<small><br>")
-  .type("ビジネスの世界へようこそ！")
+  .type("<small>社会人の始まり<small><br>")
+  .type("ビジネスの世界へようこそー！")
   .go();

@@ -37,6 +37,7 @@ section {
   font-size: 6.4rem;
   color: #B6282E;
   display: block;
+  height: 170px;
 }
 .wrapper > small {
   font-size: 5rem;
